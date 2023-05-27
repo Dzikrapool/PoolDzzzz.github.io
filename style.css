@@ -1,0 +1,48 @@
+.wrap{
+    background-color: grey;
+    padding: 10px;
+    border: 1px solid;
+    width: 80%;
+    margin: auto;
+}
+.header{
+    background-color: aqua;
+    border: 1px solid;
+    height: 150px;
+}
+.header img{
+    height: 100%;
+    width:  100%;
+}
+.topmenu{
+    background-color: red;
+    border: 1px solid;
+    height: 25px;
+    text-align: center;
+}
+.content{
+    background-color: white;
+    border: 1px solid;
+    height: 600px;
+    float: right;
+    width: 70%;
+}
+.content img{
+    height: 200px;
+    width: 300px;
+    padding-left: 150px;
+}
+.sidemenu{
+    background-color: grey;
+    border: 1px solid;
+    height: 600px;
+    float: left;
+    width: 29%;
+}
+.footer{
+    background-color: red;
+    border: 1px solid;
+    height: 50px;
+    clear: both;
+    text-align: center;
+}
